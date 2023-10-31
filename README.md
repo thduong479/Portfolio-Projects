@@ -1,7 +1,8 @@
 # Movie Data Analysis 
 
-This project aims to analyze Movie Data from **1980 - 2020**.  
+Movies serve as a popular medium of entertainment, enjoyed by people worldwide. Yet, what factors contribute to a movie's success? Is it the budget, the rating, the genre, or the release date? To answer this question, I will conduct an analysis of a movie dataset, with the goal of identifying the elements that impact a film's performance. I will examine the average budget of movies over time, the most frequent movie ratings, the genres with the highest and lowest average ratings, and the correlation between a movie's release date and its gross earnings.
 
+This project aims to analyze Movie Data from **1980 - 2020**.  
 
 In this project I have used a dataset from Kaggle:
 > - [Kaggle dataset](https://www.kaggle.com/datasets/danielgrijalvas/movies/data)
