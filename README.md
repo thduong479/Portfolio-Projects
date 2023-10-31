@@ -17,10 +17,10 @@ In this project, I have used a dataset from Kaggle:
 7. What is the average score for each genre?
 
 ## Analysis Steps
-1. **Step 1:** Install + Import Necessary Libraries
-2. **Step 2:** Reading + Exploring Data
-3. **Step 3**: Data Cleaning (handling the null and missing values)
-4. **Step 4:** Data Analysis + Visualization
+1. **Step 1:** Import Necessary Libraries
+2. **Step 2:** Exploring Data
+3. **Step 3**: Data Cleaning (handling the null and missing values, handling duplicates, checking column data types)
+4. **Step 4:** Data Analysis 
 5. **1980 - 2020 Movie Data Analysis Final Results**
 
 ## Summary
